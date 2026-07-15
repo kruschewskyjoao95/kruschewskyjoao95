@@ -27,4 +27,7 @@ Web developer - Full Stack
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kruschewskyjoao95&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kruschewskyjoao95)](https://github.com/stats-organization/github-stats-extended)
+
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kruschewskyjoao)](https://github.com/stats-organization/github-stats-extended)
