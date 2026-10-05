@@ -6,8 +6,6 @@ Web developer - Full Stack
 
 * 🌍  I'm based in Salvador-BA
 * ✉️  You can contact me at [joaokruschewsky@gmail.com](mailto:joaokruschewsky@gmail.com)
-* 🧠  I'm learning MongoDB
-* 🤝  I'm open to collaborating on Interesting projects with React
 
 ### Skills
 
